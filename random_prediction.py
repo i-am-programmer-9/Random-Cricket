@@ -56,4 +56,4 @@ if is_match_started == 'Y':
             print(f"I think they can make between {predict - 3} - {predict + 3}")
 
 elif is_match_started == 'N':
-    pass
+    print("please come after match started")
